@@ -1,0 +1,12 @@
+name: heatmap_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy=1.26.4
+  - matplotlib=3.5.3
+  - basemap=1.2.2
+  - pyproj=3.4.1
+  - scipy
+  - pandas
