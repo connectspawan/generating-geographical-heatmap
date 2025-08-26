@@ -2,7 +2,7 @@
 
 ## BrainyBeam Internship Submission
 
-**Author**: \Pawan Kumar Barnawal
+**Author**: Pawan Kumar Barnawal\
 **Date**: August 24, 2025
 
 This project creates a continuous temperature heatmap using the `Basemap` library. The code generates a sample dataset to simulate temperature variations.
